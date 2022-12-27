@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidney</h1>
 <h3 align="center">A Frontend Developer from Brazil, SP</h3>
 
-- 🔭 I’m currently working on [EUA Afora](https://github.com/ttiSid/web_project_4_ptbr/src/)
+- 🔭 I’m currently working on [EUA Afora](https://ttisid.github.io/web_project_4_ptbr/src/)
 
 - 🌱 I’m currently learning **Javascript**
 
