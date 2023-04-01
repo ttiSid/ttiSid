@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sidney</h1>
 <h3 align="center">A Frontend Developer from Brazil, SP</h3>
 
-- 🔭 I’m currently working on [EUA Afora](https://ttisid.github.io/web_project_4_ptbr/src/)
+- 🔭 I’m currently working on [EUA Afora](https://ttisid.github.io/web_project_4_ptbr/)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **JavaScript OOP**
 
-- 💬 Ask me about **HTML, CSS, BEM Methodology, GIT and Responsive Webpages**
+- 💬 Ask me about **HTML, CSS, BEM Methodology, Javascript, GIT and Responsive Webpages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
