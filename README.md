@@ -6,8 +6,8 @@
 - 💻 Portfolio [...Loading]
 ⚡ Fun fact **Gosto de desenhar e jogar futebol**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/sidney-sudatti-8231401b8"
     target="blank"
