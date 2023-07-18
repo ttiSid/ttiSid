@@ -68,6 +68,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ttisid/ttisid/output/snake.svg" alt="Snake animation" />
-
 ###
