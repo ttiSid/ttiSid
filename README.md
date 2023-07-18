@@ -1,18 +1,73 @@
-<h1 align="center">Olá, eu sou o Sidney</h1>
-<h3 align="center">Desenvolvedor frontend</h3>
+<h2 align="center">Olá, eu sou o Sidney 👋🏻</h2>
 
-- 🔭 Atualmente, estou trabalhando no projeto [Around-Express](https://github.com/ttiSid/around-express_ptbr)
+###
 
-- 🌱 Estou aprendendo e praticando **Node, Express e MongoDB**
+<h3 align="center">Desenvolvedor Web FullStack</h3>
 
-- 💬 Pergunte-me sobre: **HTML, CSS, Javascript, React, BEM Methodology, GIT and Responsive Webpages**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in//sidney-sudatti-8231401b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/sidney-sudatti-8231401b8" height="30" width="40" /></a>
-</p>
+<p align="left">Durante a minha formação em Análise e Desenvolvimento de Sistemas, foi despertada em mim a curiosidade em desenvolver aplicações que resolvam algum problema ou facilite a vida de alguém.</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttisid&show_icons=true&locale=en&layout=compact" alt="ttisid" /></p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="34" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=css" height="34" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=js" height="34" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=react" height="34" alt="react logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=figma" height="34" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="34" alt="git logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="34" alt="mongodb logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="34" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=express" height="34" alt="express logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=sass" height="34" alt="sass logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=babel" height="34" alt="babel logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="34" alt="webpack logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="34" alt="npm logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="34" alt="yarn logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="34" alt="ubuntu logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=linux" height="34" alt="linux logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="34" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=postman" height="34" alt="postman logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif"  />
+
+###
+
+<p align="left">Sou extremamente curioso quando se trata de tecnologia, gosto de ler sobre blockchain e criptoativos. Pretendo em algum momento ter contato com Desenvolvimento de Blockchain, mesmo que só por curiosidade.</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ttisid/ttisid/output/snake.svg" alt="Snake animation" />
+
+###
