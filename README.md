@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">Sou extremamente curioso quando se trata de tecnologia, gosto de ler sobre blockchain e criptoativos. Pretendo em algum momento ter contato com Desenvolvimento de Blockchain, mesmo que só por curiosidade.</p>
+<p align="left">Sou extremamente curioso quando se trata de tecnologia. Gosto de ler e estudar sobre blockchain, criptoativos e novas tecnologias. Além de me aprofundar mais em Desenvolvimento Front-end, pretendo em algum momento ter contato com Desenvolvimento de Blockchain, mesmo que só por curiosidade.</p>
 
 ###
 
