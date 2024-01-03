@@ -31,6 +31,10 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=express" height="34" alt="express logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=docker" height="34" alt="docker logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="34" alt="postgresql logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=sass" height="34" alt="sass logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=babel" height="34" alt="babel logo"  />
@@ -48,6 +52,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="34" alt="vscode logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=postman" height="34" alt="postman logo"  />
+  
 </div>
 
 ###
